@@ -1,1 +1,1 @@
-# golang_wsl_test
+# golang_projects
